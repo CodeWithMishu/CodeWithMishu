@@ -1,5 +1,5 @@
 ## Hi there , this my roadmap.sh progress 👋
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/677d4ded70129741a805b00e?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img width='3000px' src="https://roadmap.sh/card/wide/677d4ded70129741a805b00e?variant=dark" alt="roadmap.sh"/></a>
 
 
 <!--
