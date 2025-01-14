@@ -1,5 +1,5 @@
 ## Hi there , this my roadmap.sh progress 👋
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/677d4ded70129741a805b00e?variant=dark" alt="roadmap.sh"/></a> <hr>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/677d4ded70129741a805b00e?variant=light" alt="roadmap.sh"/></a> <hr>
 
 and this is my daily.dev devcard <br> <br>
 <a href="https://app.daily.dev/munishkumarsharma51"><img src="https://api.daily.dev/devcards/v2/BnmYbvZ6Mobz7OEDUkZ6f.png?r=u7f&type=default" width="356" alt="Munish Kumar Sharma's Dev Card"/></a>
