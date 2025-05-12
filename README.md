@@ -31,3 +31,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithMishu&show_icons=true&theme=radical" />
 </p>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithMishu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
