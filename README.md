@@ -1,13 +1,33 @@
-<h1>## Hi there , I welcome you here this is just like a portfolio of mine feel free to examine it down below :</h1> <hr>
-<a href="https://app.daily.dev/munishkumarsharma51"><img src="https://api.daily.dev/devcards/v2/BnmYbvZ6Mobz7OEDUkZ6f.png?r=u7f&type=default" width="356" alt="Munish Kumar Sharma's Dev Card"/></a> </div> <hr>
+# 👋 Hey there, I’m Munish
 
-<p>
-- 🔭 I’m currently working on mastering web development and programming. <br>
-- 🌱 I’m currently learning html , css , javascript , C , C++ . <br>
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about  -->
-- 📫 How to reach me: munishvas121@gmail.com <br>
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+> Full Stack Web Developer | AI/ML Learner | Content Creator
+
+🎯 Currently learning:
+- HTML, CSS, JavaScript, ReactJS
+- Node.js, Express.js, MongoDB (MERN stack)
+- Python for AI/ML
+
+📸 I share my coding journey on:
+- [YouTube: CodeWithMishu](http://youtube.com/@CodeWithMishu)
+- [Instagram: @codewithmishu](https://www.instagram.com/codewithmishu?igsh=MTg0MDR4eHdjaG1uaA==)
+- [CodeWithMishu | Links](https://code-with-mishu-links.vercel.app/)
+
+🧠 Learning in public, building real-world projects, and helping devs grow 🚀
+
+---
+
+### 🔧 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithMishu&show_icons=true&theme=radical" />
 </p>
