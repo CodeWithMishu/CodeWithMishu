@@ -10,7 +10,7 @@
 📸 I share my coding journey on:
 - [YouTube: CodeWithMishu](http://youtube.com/@CodeWithMishu)
 - [Instagram: @codewithmishu](https://www.instagram.com/codewithmishu?igsh=MTg0MDR4eHdjaG1uaA==)
-- [CodeWithMishu | Links](https://code-with-mishu-links.vercel.app/)
+- [CodeWithMishu | Links](https://codewithmishu.vercel.app/)
 
 🧠 Learning in public, building real-world projects, and helping devs grow 🚀
 
