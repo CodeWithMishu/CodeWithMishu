@@ -37,3 +37,8 @@
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithMishu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub!;Keep+Learning,+Keep+Building!&center=true&color=00F5FF&width=500&height=45" />
+</p>
