@@ -2,9 +2,9 @@
 
 > Full Stack Web Developer | AI/ML Learner | Content Creator
 
-🎯 Currently learning:
-- HTML, CSS, JavaScript, ReactJS
-- Node.js, Express.js, MongoDB (MERN stack)
+🎯 Currently Exploring:
+- HTML, CSS, JavaScript, ReactJS,NextJS
+- Node.js, Express.js, MongoDB (MERN stack),Postgresql
 - Python for AI/ML
 
 📸 I share my coding journey on:
