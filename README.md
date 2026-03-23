@@ -1,11 +1,11 @@
 # 👋 Hey there, I’m Munish
 
-> Full Stack Web Developer | AI/ML Learner | Content Creator
+> Full Stack Web Developer | Content Creator
 
 🎯 Currently Exploring:
 - HTML, CSS, JavaScript, ReactJS,NextJS
 - Node.js, Express.js, MongoDB (MERN stack),Postgresql
-- Python for AI/ML
+- Java , DSA in Java
 
 📸 I share my coding journey on:
 - [YouTube: CodeWithMishu](http://youtube.com/@CodeWithMishu)
