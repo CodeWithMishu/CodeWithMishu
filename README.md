@@ -11,7 +11,7 @@
 - [YouTube: CodeWithMishu](http://youtube.com/@CodeWithMishu)
 - [Instagram: @codewithmishu](https://www.instagram.com/codewithmishu?igsh=MTg0MDR4eHdjaG1uaA==)
 - [CodeWithMishu | Links](https://links.codewithmishu.in/)
-- [CodeWithMishu | portfolio](https://portfolio.codewithmishu.in/)
+- [CodeWithMishu | portfolio](https://codewithmishu.in/)
 
 🧠 Learning in public, building real-world projects, and helping devs grow 🚀
 
@@ -37,9 +37,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithMishu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub!;Keep+Learning,+Keep+Building!&center=true&color=00F5FF&width=500&height=45" />
 </p>
