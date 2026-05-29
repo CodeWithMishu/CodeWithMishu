@@ -3,7 +3,7 @@
 > SDE | Full Stack Web Developer | Content Creator
 
 🎯 Currently Exploring:
-- HTML, CSS, JavaScript, ReactJS,NextJS
+- HTML, CSS, JavaScript, ReactJS,NextJS , Tailwind CSS
 - Node.js, Express.js, MongoDB (MERN stack),Postgresql
 - Java , DSA in Java
 
@@ -27,13 +27,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithMishu&show_icons=true&theme=radical" />
-</p>
 
 ---
 
