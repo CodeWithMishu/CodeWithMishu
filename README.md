@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Munish Kumar Sharma aka CodeWithMishu 
+# 👋 Hey there, I’m Munish Kumar Sharma
 
 > SDE | Full Stack Web Developer | Content Creator
 
