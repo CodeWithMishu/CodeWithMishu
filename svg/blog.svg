@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
+  <rect width="1200" height="260" rx="32" fill="#0B1220"/>
+  <rect x="24" y="24" width="1152" height="212" rx="24" fill="url(#b)" fill-opacity="0.12" stroke="#1E293B"/>
+  <text x="56" y="92" fill="#E2E8F0" font-size="40" font-family="Inter, Arial, sans-serif" font-weight="700">Blog Feed</text>
+  <text x="56" y="144" fill="#7DD3FC" font-size="26" font-family="Inter, Arial, sans-serif">Use this slot for your latest posts or long-form updates.</text>
+  <text x="56" y="184" fill="#94A3B8" font-size="20" font-family="Inter, Arial, sans-serif">Replace the placeholder with your RSS source and publishing workflow.</text>
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1200" y2="260">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+</svg>

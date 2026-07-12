@@ -1,0 +1,24 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: svg/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+
+      # If the default token is rate-limited, create a fine-grained PAT with read-only
+      # access to your public profile data and save it as METRICS_TOKEN, then swap the token above.

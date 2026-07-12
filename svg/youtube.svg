@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <rect width="1200" height="320" rx="32" fill="#0B1220"/>
+  <rect x="24" y="24" width="1152" height="272" rx="24" fill="url(#y)" fill-opacity="0.12" stroke="#1E293B"/>
+  <text x="56" y="108" fill="#E2E8F0" font-size="40" font-family="Inter, Arial, sans-serif" font-weight="700">YouTube</text>
+  <text x="56" y="162" fill="#7DD3FC" font-size="28" font-family="Inter, Arial, sans-serif">This placeholder becomes a live channel card after automation is wired.</text>
+  <text x="56" y="206" fill="#94A3B8" font-size="20" font-family="Inter, Arial, sans-serif">Use Google Cloud to get a YouTube Data API key, then swap in real metrics.</text>
+  <defs>
+    <linearGradient id="y" x1="0" y1="0" x2="1200" y2="320">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+</svg>

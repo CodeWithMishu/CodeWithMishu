@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="20" y1="20" x2="240" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.52" stop-color="#111C2E"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="36" y1="36" x2="224" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="240" height="240" rx="48" fill="url(#bg)" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="130" cy="130" r="84" fill="url(#accent)" fill-opacity="0.12"/>
+  <path d="M78 168V92H100L130 132L160 92H182V168H159V126L130 164L101 126V168H78Z" fill="url(#accent)"/>
+  <text x="130" y="214" text-anchor="middle" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="2">CODEWITHMISHU</text>
+</svg>

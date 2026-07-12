@@ -1,0 +1,42 @@
+name: YouTube Card
+
+on:
+  schedule:
+    - cron: "30 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write the YouTube placeholder card
+        run: |
+          cat > svg/youtube.svg <<'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+            <rect width="1200" height="320" rx="32" fill="#0B1120"/>
+            <rect x="24" y="24" width="1152" height="272" rx="24" fill="url(#g)" fill-opacity="0.14" stroke="#1E293B"/>
+            <text x="60" y="110" fill="#E2E8F0" font-size="40" font-family="Inter, Arial, sans-serif" font-weight="700">YouTube</text>
+            <text x="60" y="168" fill="#7DD3FC" font-size="28" font-family="Inter, Arial, sans-serif">Replace this card with live channel data when your API key is ready.</text>
+            <text x="60" y="220" fill="#94A3B8" font-size="22" font-family="Inter, Arial, sans-serif">Configure the YouTube Data API in Google Cloud and swap the placeholder values.</text>
+            <defs>
+              <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0%" stop-color="#38BDF8"/>
+                <stop offset="50%" stop-color="#8B5CF6"/>
+                <stop offset="100%" stop-color="#06B6D4"/>
+              </linearGradient>
+            </defs>
+          </svg>
+          EOF
+
+      - name: Commit generated asset
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: refresh youtube card"
+
+      # Replace the placeholder SVG generation with a live card service if you want real
+      # video metadata. Add your YouTube Data API key from Google Cloud as a secret first.
