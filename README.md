@@ -255,17 +255,23 @@ goals:
   <img src="./svg/youtube.svg" alt="Latest YouTube Videos - Auto-generated from YouTube Data API" width="100%" />
 </p>
 
+<!-- BLOG -->
+## Blog
+
+<p align="center">
+  <img src="./svg/blog.svg" alt="Blog Feed - Latest Writing" width="100%" />
+</p>
+
 <!-- GITHUB STATS -->
 ## GitHub Statistics
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=CodeWithMishu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8" alt="GitHub Stats for CodeWithMishu" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMishu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb" alt="Top Languages - CodeWithMishu" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=CodeWithMishu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8" alt="GitHub Stats for CodeWithMishu" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CodeWithMishu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb" alt="Top Languages - CodeWithMishu" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithMishu&hide_border=true&theme=tokyonight&background=0b1220&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak - CodeWithMishu" /></td>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=CodeWithMishu&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies - CodeWithMishu" /></td>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithMishu&hide_border=true&theme=tokyonight&background=0b1220&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak - CodeWithMishu" /></td>
   </tr>
 </table>
 
@@ -275,11 +281,7 @@ goals:
 
 <table>
   <tr>
-    <td><img src="./svg/metrics.svg" alt="GitHub Metrics - Lowlighter Metrics Card" /></td>
-    <td><img src="https://ghchart.rshah.org/CodeWithMishu" alt="Contribution Calendar - CodeWithMishu" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation - Contribution Snake" width="100%" /></td>
+    <td colspan="2"><img src="https://ghchart.rshah.org/CodeWithMishu" alt="Contribution Calendar - CodeWithMishu" /></td>
   </tr>
 </table>
 

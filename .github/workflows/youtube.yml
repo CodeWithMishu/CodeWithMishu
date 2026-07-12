@@ -65,7 +65,8 @@ jobs:
             EXTRA_LINES="$EXTRA_LINES<text x=\"60\" y=\"200\" fill=\"#94A3B8\" font-size=\"20\" font-family=\"Inter, Arial, sans-serif\">2. ${VID2:0:65}</text>"
           fi
           if [ -n "$VID3" ]; then
-            EXTRA_LINES="$EXTRA_LINES<text x=\"60\" y=\"240\" fill=\"#94A3B8\" font-size=\"20\" font-family=\"Inter, Arial, sans-serif\">3. ${VID3:0:65}</text>"
+            EXTRA_LINES="$EXTRA_LINES
+            <text x=\"60\" y=\"240\" fill=\"#94A3B8\" font-size=\"20\" font-family=\"Inter, Arial, sans-serif\">3. ${VID3:0:65}</text>"
           fi
 
           cat > svg/youtube.svg <<SVGEOF
