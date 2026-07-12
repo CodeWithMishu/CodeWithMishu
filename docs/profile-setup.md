@@ -4,7 +4,12 @@
 
 - Replace the placeholder project links in `README.md` with the real repository URLs.
 - Replace the social profile URLs if your handles change.
-- Replace `assets/profile.png` with a real portrait or brand avatar when ready.
+- Replace `assets/profile.jpg` with a real portrait or brand avatar when ready.
+- Update the "What I'm Reading" section with books you are actually reading.
+- Update the "My Setup" section with your actual tools and environment.
+- Update the "Testimonials" section with real quotes from collaborators or peers.
+- Update the "Fun Facts" section with your own facts.
+- Update the Calendly link in "Let's Connect" with your actual scheduling URL.
 
 ## External services used in the README
 
@@ -15,26 +20,47 @@
 - `ghchart.rshah.org` for the contribution calendar.
 - `Platane/snk` for the snake animation.
 - `visitor-badge.laobi.icu` for visitor counts.
+- `github-readme-activity-graph` for the activity graph.
+- `skillicons.dev` for technology icon badges.
 
 ## Tokens and configuration
 
-- `metrics.yml` can run with `GITHUB_TOKEN` for public profile metrics.
-- If the metrics workflow gets rate-limited, create a fine-grained GitHub token with read access to public profile data and store it as `METRICS_TOKEN`.
-- `waka.yml` needs a WakaTime API key stored as `WAKATIME_API_KEY` and a GitHub token stored as `GH_TOKEN` or `GITHUB_TOKEN`.
-- `youtube.yml` is scaffolded to let you plug in a YouTube Data API key if you want live channel stats later.
-- `blog.yml` is scaffolded to let you wire in your RSS feed and refresh cadence.
+### Repository Secrets
+
+- `METRICS_TOKEN` -- Fine-grained GitHub PAT with read access to public profile data (used by `metrics.yml` if `GITHUB_TOKEN` is rate-limited).
+- `WAKATIME_API_KEY` -- Your WakaTime API key (used by `waka.yml`).
+- `YOUTUBE_API_KEY` -- YouTube Data API v3 key from Google Cloud Console (used by `youtube.yml`).
+- `YOUTUBE_CHANNEL_ID` -- Your YouTube channel ID, e.g. `UC...` (used by `youtube.yml`).
+
+### Default tokens
+
+- `GITHUB_TOKEN` -- Automatically available, used by `metrics.yml` and `snake.yml`.
 
 ## Asset layout
 
-- `assets/banner.png` is the wide hero image.
-- `assets/profile.png` is the avatar or monogram image.
-- `svg/logo.svg` is the brand mark.
-- `svg/footer.svg` is the footer wave.
-- `svg/wave.svg` is the decorative wave divider.
-- `svg/metrics.svg`, `svg/waka.svg`, `svg/blog.svg`, and `svg/youtube.svg` are workflow outputs.
+- `assets/banner.png` -- Wide hero banner displayed at the top of the README.
+- `assets/profile.jpg` -- Avatar photo displayed in the About section.
+- `svg/logo.svg` -- Brand logo (CM monogram) displayed next to the title.
+- `svg/footer.svg` -- Footer wave decoration.
+- `svg/wave.svg` -- Decorative wave divider between sections.
+- `svg/metrics.svg` -- Workflow output from `lowlighter/metrics`.
+- `svg/waka.svg` -- Workflow output for WakaTime coding summary.
+- `svg/blog.svg` -- Workflow output for latest blog post card.
+- `svg/youtube.svg` -- Workflow output for latest YouTube videos card.
 
-## Recommended workflow behavior
+## Workflow schedule
+
+| Workflow | Schedule | Purpose |
+|----------|----------|---------|
+| `snake.yml` | Daily at 00:00 UTC | Snake contribution animation |
+| `blog.yml` | Daily at 06:15 UTC | Latest blog post card |
+| `waka.yml` | Daily at 08:00 UTC | WakaTime coding summary |
+| `youtube.yml` | Daily at 09:30 UTC | Latest YouTube videos card |
+| `metrics.yml` | Daily at 12:00 UTC | GitHub profile metrics |
+
+## Recommended behavior
 
 - Keep workflow outputs committed so the README renders cleanly on first load.
 - Re-run the workflows on a schedule and after relevant profile updates.
 - Keep comments in the workflow files short and explicit so future edits are easy.
+- Test workflows with `workflow_dispatch` before relying on the cron schedule.

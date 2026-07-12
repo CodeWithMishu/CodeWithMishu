@@ -1,7 +1,14 @@
 <!-- HERO -->
-<h1 align="center">CodeWithMishu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+Real+World+Projects;Open+Source+Developer;Full+Stack+Developer;React;Java;Node.js;Learning+in+Public;Founder+of+WorldNote;Creating+Dev+Content" alt="Typing SVG" />
+  <img src="./assets/banner.png" alt="CodeWithMishu Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="./svg/logo.svg" alt="CM" width="44" /> CodeWithMishu
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+Real+World+Projects;Open+Source+Developer;Full+Stack+Developer;React;Java;Node.js;Learning+in+Public;Founder+of+WorldNote;Creating+Dev+Content" alt="CodeWithMishu - Building Real World Projects, Open Source Developer, Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -20,7 +27,7 @@
   <a href="https://links.codewithmishu.in" target="_blank"><img alt="Links" src="https://img.shields.io/badge/Links-0B1220?style=flat-square&logo=linktree&logoColor=38BDF8"></a>
 </p>
 
-<!-- INTRODUCTION -->
+<!-- ABOUT -->
 ## About
 
 <table>
@@ -51,7 +58,7 @@ goals:
 
     </td>
     <td width="40%" align="center">
-      <img src="./assets/profile.png" alt="Munish Kumar Sharma" width="320" />
+      <img src="./assets/profile.jpg" alt="Munish Kumar Sharma - CodeWithMishu" width="320" />
     </td>
   </tr>
 </table>
@@ -91,23 +98,23 @@ goals:
 
 <table>
   <tr>
-    <td><strong>Languages</strong><br><img src="https://skillicons.dev/icons?i=javascript,typescript,python" alt="Languages" /></td>
-    <td><strong>Frontend</strong><br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" alt="Frontend" /></td>
+    <td><strong>Languages</strong><br><img src="https://skillicons.dev/icons?i=javascript,typescript,python" alt="Languages - JavaScript, TypeScript, Python" /></td>
+    <td><strong>Frontend</strong><br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" alt="Frontend - HTML, CSS, React, Next.js, Tailwind, Redux" /></td>
   </tr>
   <tr>
-    <td><strong>Backend</strong><br><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" alt="Backend" /></td>
-    <td><strong>Database</strong><br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" alt="Database" /></td>
+    <td><strong>Backend</strong><br><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" alt="Backend - Node.js, Express, NestJS, GraphQL" /></td>
+    <td><strong>Database</strong><br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" alt="Database - PostgreSQL, MongoDB, MySQL, Redis, Supabase" /></td>
   </tr>
   <tr>
-    <td><strong>Cloud</strong><br><img src="https://skillicons.dev/icons?i=vercel,cloudflare,aws,firebase" alt="Cloud" /></td>
-    <td><strong>DevOps</strong><br><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" alt="DevOps" /></td>
+    <td><strong>Cloud</strong><br><img src="https://skillicons.dev/icons?i=vercel,cloudflare,aws,firebase" alt="Cloud - Vercel, Cloudflare, AWS, Firebase" /></td>
+    <td><strong>DevOps</strong><br><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" alt="DevOps - Docker, Git, GitHub Actions, Linux" /></td>
   </tr>
   <tr>
-    <td><strong>Tools</strong><br><img src="https://skillicons.dev/icons?i=vscode,postman,github" alt="Tools" /></td>
-    <td><strong>Operating Systems</strong><br><img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems" /></td>
+    <td><strong>Tools</strong><br><img src="https://skillicons.dev/icons?i=vscode,postman,github" alt="Tools - VS Code, Postman, GitHub" /></td>
+    <td><strong>Operating Systems</strong><br><img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems - Linux, Windows" /></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Design</strong><br><img src="https://skillicons.dev/icons?i=figma,svg" alt="Design" /></td>
+    <td colspan="2"><strong>Design</strong><br><img src="https://skillicons.dev/icons?i=figma,svg" alt="Design - Figma, SVG" /></td>
   </tr>
 </table>
 
@@ -115,7 +122,7 @@ goals:
 ## Developer Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,figma,supabase,vercel" alt="Developer Toolbox" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,figma,supabase,vercel" alt="Developer Toolbox - VS Code, Git, GitHub, Postman, Docker, Linux, Figma, Supabase, Vercel" />
 </p>
 
 <!-- FEATURED PROJECTS -->
@@ -196,30 +203,84 @@ goals:
   </tr>
 </table>
 
-<!-- GITHUB STATS -->
-## GitHub Statistics
+<!-- WAVE DIVIDER -->
+<p align="center">
+  <img src="./svg/wave.svg" alt="" width="100%" />
+</p>
 
-<!-- Replace the username below if you fork this profile. GitHub Stats and Top Languages do not require a token. -->
+<!-- MY SETUP -->
+## My Setup
+
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=CodeWithMishu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMishu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb" alt="Top Languages" /></td>
+    <td width="50%">
+      <strong>Development</strong><br>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" alt="Dev Tools - VS Code, Git, GitHub, Postman" /><br>
+      VS Code, Git, GitHub, Postman
+    </td>
+    <td width="50%">
+      <strong>Runtime and Deploy</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,docker,vercel,cloudflare" alt="Runtime - Node.js, Docker, Vercel, Cloudflare" /><br>
+      Node.js, Docker, Vercel, Cloudflare
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithMishu&hide_border=true&theme=tokyonight&background=0b1220&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" /></td>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=CodeWithMishu&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" /></td>
+    <td width="50%">
+      <strong>Operating System</strong><br>
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br>
+      Linux (Daily Driver)
+    </td>
+    <td width="50%">
+      <strong>Design and Creative</strong><br>
+      <img src="https://skillicons.dev/icons?i=figma,svg" alt="Design - Figma, SVG" /><br>
+      Figma, SVG, Custom Themes
+    </td>
   </tr>
 </table>
 
-<!-- These widgets are workflow-generated placeholders until the automation runs for the first time. -->
+<!-- WHAT I'M READING -->
+## What I'm Reading
+
+| Book | Author | Focus |
+|------|--------|-------|
+| *Clean Code* | Robert C. Martin | Writing maintainable, readable code |
+| *System Design Interview* | Alex Xu | Architecture and scalability patterns |
+| *Designing Data-Intensive Applications* | Martin Kleppmann | Distributed systems and data foundations |
+| *The Pragmatic Programmer* | David Thomas and Andrew Hunt | Software craftsmanship and professional growth |
+
+<!-- LATEST FROM MY YOUTUBE -->
+## Latest from YouTube
+
+<p align="center">
+  <img src="./svg/youtube.svg" alt="Latest YouTube Videos - Auto-generated from YouTube Data API" width="100%" />
+</p>
+
+<!-- GITHUB STATS -->
+## GitHub Statistics
+
 <table>
   <tr>
-    <td><img src="./svg/metrics.svg" alt="GitHub Metrics" /></td>
-    <td><img src="https://ghchart.rshah.org/CodeWithMishu" alt="Contribution Calendar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=CodeWithMishu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8" alt="GitHub Stats for CodeWithMishu" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMishu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b1220&title_color=38bdf8&text_color=e5e7eb" alt="Top Languages - CodeWithMishu" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" /></td>
-    <td><img src="./svg/waka.svg" alt="WakaTime Summary" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithMishu&hide_border=true&theme=tokyonight&background=0b1220&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak - CodeWithMishu" /></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=CodeWithMishu&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies - CodeWithMishu" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithMishu&bg_color=0B1220&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" alt="GitHub Activity Graph - CodeWithMishu" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td><img src="./svg/metrics.svg" alt="GitHub Metrics - Lowlighter Metrics Card" /></td>
+    <td><img src="https://ghchart.rshah.org/CodeWithMishu" alt="Contribution Calendar - CodeWithMishu" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation - Contribution Snake" /></td>
+    <td><img src="./svg/waka.svg" alt="WakaTime Summary - Coding Activity" /></td>
   </tr>
 </table>
 
@@ -228,9 +289,50 @@ goals:
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeWithMishu.CodeWithMishu" alt="Visitor count" />
-  <img src="https://img.shields.io/github/followers/CodeWithMishu?style=flat-square&label=Followers&labelColor=0b1220&color=38bdf8" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/CodeWithMishu?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Stars&labelColor=0b1220&color=38bdf8" alt="Stars" />
-  <img src="https://img.shields.io/badge/Public%20Repos-6%20featured%20builds-0b1220?style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/github/followers/CodeWithMishu?style=flat-square&label=Followers&labelColor=0b1220&color=38bdf8" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/CodeWithMishu?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Stars&labelColor=0b1220&color=38bdf8" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Featured%20Builds-6-0b1220?style=flat-square" alt="Featured Builds Count" />
+</p>
+
+<!-- TESTIMONIALS -->
+## What People Say
+
+<table>
+  <tr>
+    <td width="50%">
+      <blockquote>
+        "Mishu's work on WebRun shows real product thinking. Clean architecture, clear intent."
+      </blockquote>
+      <p><strong>-- Add Name Here</strong></p>
+    </td>
+    <td width="50%">
+      <blockquote>
+        "One of the most consistent builders I know. Ships daily and documents everything."
+      </blockquote>
+      <p><strong>-- Add Name Here</strong></p>
+    </td>
+  </tr>
+</table>
+
+<!-- FUN FACTS -->
+## Fun Facts
+
+- I write code in the early morning and ship products at night.
+- I have used Linux for more than I have used Windows.
+- I once refactored an entire project in a single weekend just because the architecture felt wrong.
+- I prefer dark mode not just for the eyes but for the vibe.
+- I believe good documentation is a feature, not a chore.
+
+<!-- SUPPORT AND SPONSORS -->
+## Support and Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/CodeWithMishu" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsors-0B1220?style=flat-square&logo=githubsponsors&logoColor=38BDF8"></a>
+  <a href="https://www.buymeacoffee.com/codewithmishu" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-0B1220?style=flat-square&logo=buymeacoffee&logoColor=38BDF8"></a>
+</p>
+
+<p align="center">
+  If my work helps you, consider supporting the journey. Every bit keeps the momentum going.
 </p>
 
 <!-- PHILOSOPHY -->
@@ -259,12 +361,25 @@ goals:
 
 > Simplicity is the highest form of sophistication.
 
-<!-- FOOTER -->
+<!-- LET'S CONNECT -->
+## Let's Connect
+
 <p align="center">
-  <img src="./svg/footer.svg" alt="Footer wave" width="100%" />
+  <a href="https://calendly.com/codewithmishu" target="_blank"><img alt="Schedule a Meeting" src="https://img.shields.io/badge/Schedule_a_Meeting-0B1220?style=flat-square&logo=googlecalendar&logoColor=38BDF8"></a>
+  <a href="mailto:codewithmishu@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/Email_Me-0B1220?style=flat-square&logo=gmail&logoColor=38BDF8"></a>
+  <a href="https://x.com/CodeWithMishu" target="_blank"><img alt="DM on X" src="https://img.shields.io/badge/DM_on_X-0B1220?style=flat-square&logo=x&logoColor=38BDF8"></a>
 </p>
 
-<p align="center"><strong>Thank you for visiting.</strong><br>Built with ❤️ by CodeWithMishu.</p>
+<p align="center">
+  Open to collaboration, feedback, and conversations about building in public.
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="./svg/footer.svg" alt="Footer wave decoration" width="100%" />
+</p>
+
+<p align="center"><strong>Thank you for visiting.</strong><br>Built with heart by CodeWithMishu.</p>
 
 <!-- OPTIONAL CONFIG -->
 <details>

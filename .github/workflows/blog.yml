@@ -1,8 +1,6 @@
 name: Blog Card
 
 on:
-  schedule:
-    - cron: "15 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,14 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Write the blog placeholder card
+      - name: Write the blog card
         run: |
           cat > svg/blog.svg <<'EOF'
           <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
             <rect width="1200" height="260" rx="32" fill="#08111F"/>
             <text x="56" y="92" fill="#E2E8F0" font-size="40" font-family="Inter, Arial, sans-serif" font-weight="700">Latest Writing</text>
-            <text x="56" y="146" fill="#7DD3FC" font-size="26" font-family="Inter, Arial, sans-serif">Hook this file to your RSS feed when you want live blog updates.</text>
-            <text x="56" y="188" fill="#94A3B8" font-size="20" font-family="Inter, Arial, sans-serif">Replace the placeholder with your blog URL and refresh cadence.</text>
+            <text x="56" y="146" fill="#7DD3FC" font-size="26" font-family="Inter, Arial, sans-serif">Teaching what I learn while I build.</text>
+            <text x="56" y="188" fill="#94A3B8" font-size="20" font-family="Inter, Arial, sans-serif">Follow me on YouTube and X for regular updates.</text>
           </svg>
           EOF
 
@@ -29,6 +27,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: refresh blog card"
-
-      # For a live blog feed, wire an RSS parser or a blog-post workflow action to your
-      # publication feed and save the source URL in a repository secret or variable.
