@@ -26,7 +26,6 @@
 ### Repository Secrets
 
 - `METRICS_TOKEN` -- Fine-grained GitHub PAT with read access to public profile data (used by `metrics.yml` if `GITHUB_TOKEN` is rate-limited).
-- `WAKATIME_API_KEY` -- Your WakaTime API key (used by `waka.yml`).
 - `YOUTUBE_API_KEY` -- YouTube Data API v3 key from Google Cloud Console (used by `youtube.yml`).
 - `YOUTUBE_CHANNEL_ID` -- Your YouTube channel ID, e.g. `UC...` (used by `youtube.yml`).
 
@@ -42,8 +41,7 @@
 - `svg/footer.svg` -- Footer wave decoration.
 - `svg/wave.svg` -- Decorative wave divider between sections.
 - `svg/metrics.svg` -- Workflow output from `lowlighter/metrics`.
-- `svg/waka.svg` -- Workflow output for WakaTime coding summary.
-- `svg/blog.svg` -- Workflow output for latest blog post card.
+- `svg/blog.svg` -- Static blog card.
 - `svg/youtube.svg` -- Workflow output for latest YouTube videos card.
 
 ## Workflow schedule
@@ -51,8 +49,7 @@
 | Workflow | Schedule | Purpose |
 |----------|----------|---------|
 | `snake.yml` | Daily at 00:00 UTC | Snake contribution animation |
-| `blog.yml` | Daily at 06:15 UTC | Latest blog post card |
-| `waka.yml` | Daily at 08:00 UTC | WakaTime coding summary |
+| `blog.yml` | Manual trigger | Blog card |
 | `youtube.yml` | Daily at 09:30 UTC | Latest YouTube videos card |
 | `metrics.yml` | Daily at 12:00 UTC | GitHub profile metrics |
 

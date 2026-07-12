@@ -279,8 +279,7 @@ goals:
     <td><img src="https://ghchart.rshah.org/CodeWithMishu" alt="Contribution Calendar - CodeWithMishu" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation - Contribution Snake" /></td>
-    <td><img src="./svg/waka.svg" alt="WakaTime Summary - Coding Activity" /></td>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation - Contribution Snake" width="100%" /></td>
   </tr>
 </table>
 
