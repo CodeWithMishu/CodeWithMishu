@@ -36,7 +36,7 @@ jobs:
                 </linearGradient>
               </defs>
             </svg>
-            SVGEOF
+          SVGEOF
             exit 0
           fi
 
