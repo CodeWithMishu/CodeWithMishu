@@ -7,9 +7,7 @@
 - Replace `assets/profile.jpg` with a real portrait or brand avatar when ready.
 - Update the "What I'm Reading" section with books you are actually reading.
 - Update the "My Setup" section with your actual tools and environment.
-- Update the "Testimonials" section with real quotes from collaborators or peers.
 - Update the "Fun Facts" section with your own facts.
-- Update the Calendly link in "Let's Connect" with your actual scheduling URL.
 
 ## External services used in the README
 

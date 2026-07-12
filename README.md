@@ -294,25 +294,26 @@ goals:
   <img src="https://img.shields.io/badge/Featured%20Builds-6-0b1220?style=flat-square" alt="Featured Builds Count" />
 </p>
 
-<!-- TESTIMONIALS -->
+<!-- TESTIMONIALS - Uncomment when you have real quotes
 ## What People Say
 
 <table>
   <tr>
     <td width="50%">
       <blockquote>
-        "Mishu's work on WebRun shows real product thinking. Clean architecture, clear intent."
+        "Add a real quote here from someone who has seen your work."
       </blockquote>
-      <p><strong>-- Add Name Here</strong></p>
+      <p><strong>-- Person Name</strong></p>
     </td>
     <td width="50%">
       <blockquote>
-        "One of the most consistent builders I know. Ships daily and documents everything."
+        "Add another real quote here."
       </blockquote>
-      <p><strong>-- Add Name Here</strong></p>
+      <p><strong>-- Person Name</strong></p>
     </td>
   </tr>
 </table>
+-->
 
 <!-- FUN FACTS -->
 ## Fun Facts
@@ -328,7 +329,6 @@ goals:
 
 <p align="center">
   <a href="https://github.com/sponsors/CodeWithMishu" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsors-0B1220?style=flat-square&logo=githubsponsors&logoColor=38BDF8"></a>
-  <a href="https://www.buymeacoffee.com/codewithmishu" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-0B1220?style=flat-square&logo=buymeacoffee&logoColor=38BDF8"></a>
 </p>
 
 <p align="center">
@@ -365,7 +365,6 @@ goals:
 ## Let's Connect
 
 <p align="center">
-  <a href="https://calendly.com/codewithmishu" target="_blank"><img alt="Schedule a Meeting" src="https://img.shields.io/badge/Schedule_a_Meeting-0B1220?style=flat-square&logo=googlecalendar&logoColor=38BDF8"></a>
   <a href="mailto:codewithmishu@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/Email_Me-0B1220?style=flat-square&logo=gmail&logoColor=38BDF8"></a>
   <a href="https://x.com/CodeWithMishu" target="_blank"><img alt="DM on X" src="https://img.shields.io/badge/DM_on_X-0B1220?style=flat-square&logo=x&logoColor=38BDF8"></a>
 </p>
