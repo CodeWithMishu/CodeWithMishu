@@ -2,10 +2,6 @@
      CODEWITHMISHU — GITHUB PROFILE README
      ========================================================= -->
 
-<p align="center">
-  <img src="./assets/banner.png" alt="CodeWithMishu" width="100%" />
-</p>
-
 <h1 align="center">Hey, I'm Munish 👋</h1>
 
 <p align="center">
